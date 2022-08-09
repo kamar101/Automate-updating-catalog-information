@@ -28,6 +28,7 @@ Finally, in parallel to the automation running, we want to check the health of t
 - <b>Python</b> 
 
 <h2>Environments Used </h2>
+
 - <b>Linux</b>
 
 <!--
